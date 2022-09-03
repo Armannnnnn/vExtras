@@ -1,0 +1,44 @@
+name: vExtras
+main: me.arman.vextras.Main
+authors: [Arman]
+version: 2.1
+description: VillageRealms Extras
+depend: [Vault]
+commands:
+  vextras:
+    description: View VillageRealmsExtras info
+  unname:
+    description: Unname the item you are holding
+    aliases: [removename, delname, resetname]
+  nightvision:
+    description: Enable or disable night vision
+    aliases: [nv, nvision]
+  disenchant:
+    description: Disenchant the item you are holding
+    aliases: [disench, unenchant, unench]
+  namecolor:
+    description: Change your name color
+    aliases: [namecolour, ncolor]
+  color:
+    description: Change your chat color
+    aliases: [colour, chatcolor, chatcolour, ccolor, ccolour]
+  blazingtouch:
+    description: Apply blazing touch enchantment
+    aliases: [blazet, blazetouch, btouch, bt]
+  tnt:
+    description: Autocraft TNT
+    aliases: [autocrafttnt, tntcraft, crafttnt, craftnt]
+  ping:
+    description: View your ping
+  vnear:
+    description: Find nearby players
+    aliases: [near, nearby]
+  fixall:
+    description: Fix all items
+  prefix:
+    description: Set your second prefix
+  iplookup:
+    description: Look through the IP database
+  customenchant:
+    description: Enchant items with cool enchantments
+    aliases: [ce]
