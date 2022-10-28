@@ -1,2 +1,2 @@
 # vExtras
-An extras plugin. 
+Misc. utilities
